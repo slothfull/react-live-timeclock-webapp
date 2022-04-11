@@ -5,3 +5,5 @@
 ### 2 npm start or yarn start
 ### 3 cd ./backend
 ### 4 python3 send.py
+
+## PUSH: git push origin main
