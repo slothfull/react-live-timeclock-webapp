@@ -5,7 +5,7 @@ from flask import Flask, Response
 
 app = Flask(__name__)
 
-# 127.0.0.1:5000/time_feeV
+# 127.0.0.1:5000/time_feed
 @app.route('/time_feed')
 def time_feed():
     def generate():
