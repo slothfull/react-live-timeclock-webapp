@@ -1,9 +1,9 @@
-## REF: https://github.com/itsnitinr/dogecoin-ticker
+### REF: https://github.com/itsnitinr/dogecoin-ticker
 
-## USAGE: 
-### 1 cd ./frontend
-### 2 npm start or yarn start
-### 3 cd ./backend
-### 4 python3 send.py
+##### USAGE: 
+- 1 cd ./frontend
+- 2 npm start or yarn start
+- 3 cd ./backend
+- 4 python3 send.py
 
-## PUSH: git push origin main
+(PUSH: git push origin main)
